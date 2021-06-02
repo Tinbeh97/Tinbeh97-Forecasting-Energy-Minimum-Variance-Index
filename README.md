@@ -1,1 +1,1 @@
-# Tinbeh97-Forecasting-Energy-Minimum-Variance-Index
+Forecasting Energy Minimum Variance Index
